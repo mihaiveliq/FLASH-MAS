@@ -6,3 +6,6 @@
 /log-*.yaml
 /APDescription.txt
 /MTPs-Container-*.txt
+.classpath
+.gitignore
+.project
